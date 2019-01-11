@@ -18,6 +18,7 @@ call plug#end()
 set number
 set expandtab
 set tabstop=4
+set wrap
 syntax on
 colorscheme gruvbox
 set background=dark
