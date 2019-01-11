@@ -1,6 +1,9 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+
+Plug 'airblade/vim-gitgutter'
+
 "color
 Plug 'morhetz/gruvbox'
 
